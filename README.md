@@ -1,5 +1,5 @@
 # 06 Server-Side APIs: Weather Dashboard
-[Launch Weather Dashboard](https://moesaidi76.github.io/Weather_Dashboard/.)
+[Launch Weather Dashboard](https://moesaidi76.github.io/Weather_Dashboard/master)
 
 
 # 06 Server-Side APIs: Weather Dashboard
